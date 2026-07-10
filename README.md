@@ -97,7 +97,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: taibarashid110@gmail.com
-- 💻 GitHub: https://github.com/TaibaRashid
+- 💻 GitHub: https://github.com/taibarashid110-beep
 - 💼 LinkedIn: Coming Soon
 - 🌐 Portfolio: Coming Soon
 
