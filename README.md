@@ -1,66 +1,31 @@
 <h1 align="center">Hi 👋, I'm Taiba Rashid</h1>
-<h3 align="center">🎓 BS Artificial Intelligence Student | 🤖 Aspiring AI Engineer | 🌐 Web Developer</h3>
+
+<h3 align="center">
+🎓 BS Artificial Intelligence Student | 🤖 Aspiring AI Engineer | 💻 Web Developer
+</h3>
 
 <p align="center">
-  Passionate about Artificial Intelligence, Web Development, and building technology that solves real-world problems.
+Passionate about Artificial Intelligence, Machine Learning, and Web Development.<br>
+I love building projects, solving problems, and learning new technologies every day.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Bachelor of Science in Artificial Intelligence
-- 🌱 Currently learning **Python, Java, HTML, CSS, JavaScript, Git & GitHub**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Web Development**
-- 💡 I enjoy building projects that improve my programming and problem-solving skills.
-- 🚀 My goal is to become an AI Engineer and Full-Stack Developer.
-
----
-
-## 🎯 Current Goals
-
-- ✅ Strengthen my programming skills
-- 🤖 Learn Machine Learning & Deep Learning
-- 🌐 Build modern web applications
-- 📂 Create real-world AI projects
-- 💼 Start freelancing and contribute to open-source projects
+- 🎓 BS Artificial Intelligence Student
+- 🌱 Currently learning Python, Java, HTML, CSS, JavaScript, Git & GitHub
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Data Science
+- 🌐 Building responsive websites and AI projects
+- 🚀 Working towards becoming an AI Engineer and Full-Stack Developer
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-- Python
-- Java
-- HTML5
-- CSS3
-- JavaScript *(Learning)*
-- SQL *(Learning)*
-
-### Artificial Intelligence
-- Machine Learning *(Learning)*
-- NumPy *(Learning)*
-- Pandas *(Learning)*
-- Jupyter Notebook *(Learning)*
-
-### Web Development
-- HTML5
-- CSS3
-- Responsive Web Design
-
-### Developer Tools
-- Git
-- GitHub
-- Visual Studio Code
-
-### Databases
-- MySQL *(Learning)*
-
-### Design & Productivity
-- Canva
-- Microsoft Word
-- Microsoft Excel
-- Microsoft PowerPoint
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,mysql,anaconda" />
+</p>
 
 ---
 
@@ -68,9 +33,9 @@
 
 - Machine Learning
 - Data Structures & Algorithms
+- SQL
 - Front-End Development
 - Git & GitHub
-- Problem Solving
 
 ---
 
@@ -78,31 +43,61 @@
 
 - 🌐 Personal Portfolio Website *(In Progress)*
 - 🤖 AI Learning Projects *(Coming Soon)*
-- 💻 Web Development Practice Projects
+- 💻 Web Development Projects
 - ☕ Java Programming Projects
-- 🐍 Python Practice Projects
+- 🐍 Python Programming Projects
 
 ---
 
-## 📈 GitHub Goals
+## 📊 GitHub Stats
 
-- Upload projects regularly
-- Practice coding consistently
-- Learn new technologies
-- Build an impressive portfolio
-- Collaborate on open-source projects
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Build an impressive portfolio
+- 🤖 Learn Machine Learning & Deep Learning
+- 🌐 Develop full-stack web applications
+- 📂 Upload projects regularly
+- 💼 Start freelancing
+- 🤝 Contribute to open-source projects
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: taibarashid110@gmail.com
+- 📧 Email: YOUR_EMAIL
 - 💻 GitHub: https://github.com/Taibarashid123
-- 💼 LinkedIn: Coming Soon
+- 💼 LinkedIn: YOUR_LINKEDIN_URL
 - 🌐 Portfolio: Coming Soon
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+<div align="center">
+
+### ⭐ *"Every expert was once a beginner who never stopped learning."*
+
+Thanks for visiting my profile! 😊
+
+</div>
