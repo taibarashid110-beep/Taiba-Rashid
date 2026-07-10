@@ -97,7 +97,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: taibarashid110@gmail.com
-- 💻 GitHub: https://github.com/Taiba Rashid
+- 💻 GitHub: https://github.com/TaibaRashid
 - 💼 LinkedIn: Coming Soon
 - 🌐 Portfolio: Coming Soon
 
