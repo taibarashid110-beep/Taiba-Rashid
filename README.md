@@ -87,7 +87,7 @@ I love building projects, solving problems, and learning new technologies every 
 
 ## 📫 Connect With Me
 
-- 📧 Email: YOUR_EMAIL
+- 📧 Email: taibarashid110@gmail.com
 - 💻 GitHub: https://github.com/Taibarashid123
 - 💼 LinkedIn: YOUR_LINKEDIN_URL
 - 🌐 Portfolio: Coming Soon
